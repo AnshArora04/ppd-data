@@ -42,5 +42,10 @@
 # Personal conda info
 .conda_info
 
+# Python virtual environment
+.venv/
+venv/
+env/
+
 *exclude/
 
